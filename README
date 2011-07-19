@@ -1,0 +1,17 @@
+This is a modified version of Martin Kaltenbrunner's TuioKinect (http://code.google.com/p/tuiokinect/). It uses Haar face-detection to automatically set the hand-detection threshold.
+
+You will need openFrameworks and the following addons:
+
+ofxVectorMath
+ofxThred
+ofxOsc
+ofxOpenCv
+ofxKinect
+
+optionally, for GUI:
+
+ofxXmlSettings
+ofxMSAInteractiveObject
+ofxSimpleGuiToo
+
+Tested and compiled with Xcode, OSX 10.6.

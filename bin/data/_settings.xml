@@ -1,0 +1,22 @@
+<controls>
+    <SliderInt_threshold>
+        <name>threshold</name>
+        <value>255</value>
+    </SliderInt_threshold>
+    <SliderInt_offset_(%_threshold)>
+        <name>offset (% threshold)</name>
+        <value>8</value>
+    </SliderInt_offset_(%_threshold)>
+    <SliderFloat_haar_scale>
+        <name>haar scale</name>
+        <value>1.380000</value>
+    </SliderFloat_haar_scale>
+    <SliderInt_haar_neighbors>
+        <name>haar neighbors</name>
+        <value>5</value>
+    </SliderInt_haar_neighbors>
+    <SliderInt_haar_min_(%_total)>
+        <name>haar min (% total)</name>
+        <value>25</value>
+    </SliderInt_haar_min_(%_total)>
+</controls>
