@@ -1,6 +1,6 @@
 This is a modified version of Martin Kaltenbrunner's TuioKinect (http://code.google.com/p/tuiokinect/). It uses Haar face-detection to automatically set the hand-detection threshold.
 
-You will need openFrameworks and the following addons:
+You will need openFrameworks (github version, untested with 062) and the following addons:
 
 ofxVectorMath
 ofxThred
